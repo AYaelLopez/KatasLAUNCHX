@@ -1,0 +1,15 @@
+config.py
+config.py.txt
+config.txt
+env
+Kata1.ipynb
+Kata10.ipynb
+Kata3.ipynb
+Kata4.ipynb
+Kata5.ipynb
+Kata6.ipynb
+Kata7.ipynb
+Kata8.ipynb
+Kata9.ipynb
+open.py
+ship-manual.ipynb
